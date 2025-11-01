@@ -113,11 +113,11 @@ MIT © [Siraj AL Zahran](https://github.com/sirajalzahran)
 ## Tech Stack
 
 - React Native 0.79.5
-- React 19.0.0
-- Expo ~53.0.20
+- React 19.1.0
+- Expo ~54.0.0
 - NativeWind ^4.1.23
 - TailwindCSS ^3.4.0
-- TypeScript ~5.8.3
+- TypeScript ~5.9.2
 
 ---
 
